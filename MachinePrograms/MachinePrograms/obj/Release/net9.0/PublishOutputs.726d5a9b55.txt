@@ -1,0 +1,7 @@
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\PubTmp\Out\MachinePrograms.exe
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\PubTmp\Out\MachinePrograms.dll
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\PubTmp\Out\MachinePrograms.deps.json
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\PubTmp\Out\MachinePrograms.runtimeconfig.json
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\PubTmp\Out\MachinePrograms.pdb

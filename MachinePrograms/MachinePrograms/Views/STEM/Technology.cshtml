@@ -1,0 +1,83 @@
+﻿@{
+	ViewData["Title"] = "STEM";
+}
+
+<script>
+    function changePicture(picture) {
+        document.getElementById("modalPicture").src = picture;        
+    }
+</script>
+
+<div class="content">
+    I have been always been interested in Science, Technology, Engineering, and Mathematics.
+    <br />
+    <br />
+    <br />
+
+    BB-8
+    <br />
+    <br />
+    BB-8 is the first robot I've had that can be controlled by an app on my phone.  I bought it on a family trip to Disney World.
+    Video of BB-8 is posted <a href="https://www.youtube.com/shorts/Dgs24-iRQMU">here</a>.
+    <br />
+    <br />
+
+    <img src="~/repository/BB8.jpeg" class="pictures" data-toggle="modal" data-target="#stemModal"
+         onclick="changePicture(this.src)" />
+    <br />
+    <br />
+    <br />
+
+    Spider Bot
+    <br />
+    <br />
+
+    Spider Bot is the first robot I ever built.  It doesn't work anymore, but it was fun to build!
+    <br />
+    <br />
+
+    <img src="~/repository/SpiderBot.jpeg" class="pictures" data-toggle="modal" data-target="#stemModal"
+        onclick="changePicture(this.src)" />
+    <br />
+    <br />
+    <br />
+
+    Beast
+    <br />
+    <br />
+
+    Beast is the first computer I ever built.  It served as my main computer for several years.
+    <br />
+    <br />
+
+    <img src="~/repository/Beast.jpeg" class="pictures" data-toggle="modal" data-target="#stemModal" 
+        onclick="changePicture(this.src)" />
+    <br />
+    <br />
+    <br />
+
+    <a asp-area="" asp-controller="STEM" asp-action="Resources">Resources</a>
+    <br />
+    <br />
+    Here are some interesting STEM resources.
+    <br />
+    <br />
+</div>
+
+<div class="modal fade" id="stemModal" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    <img id="modalPicture" class="modalPictures" />
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

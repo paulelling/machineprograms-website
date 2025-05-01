@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MachinePrograms
+build_property.RootNamespace = MachinePrograms
+build_property.ProjectDir = D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\MachinePrograms\Website\MachinePrograms\MachinePrograms
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/About/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/Leadership/Guidelines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZGVyc2hpcFxHdWlkZWxpbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/Software/Code.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29mdHdhcmVcQ29kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/Software/Resources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29mdHdhcmVcUmVzb3VyY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/STEM/Resources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1RFTVxSZXNvdXJjZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/STEM/Technology.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1RFTVxUZWNobm9sb2d5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/Writing/Essays.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGluZ1xFc3NheXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MachinePrograms/Website/MachinePrograms/MachinePrograms/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3wjbzm56fb

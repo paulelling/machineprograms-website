@@ -1,0 +1,108 @@
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\wwwroot\css\site.css
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\wwwroot\js\site.js
+wwwroot\css\site.css
+wwwroot\js\site.js
+wwwroot\repository\1920s.pdf
+wwwroot\repository\A Bug Yesterday.pdf
+wwwroot\repository\A Tale of Two Cities.pdf
+wwwroot\repository\Agrarian Discontent.pdf
+wwwroot\repository\Andrew Carnegie.pdf
+wwwroot\repository\Andrew Jackson.pdf
+wwwroot\repository\Appropriateness of Strategy.pdf
+wwwroot\repository\BB8.jpeg
+wwwroot\repository\Beast.jpeg
+wwwroot\repository\Billy Budd.pdf
+wwwroot\repository\Civil Rights.pdf
+wwwroot\repository\Civil War.pdf
+wwwroot\repository\Communicating for Results in Organizations - Exercise 1.pdf
+wwwroot\repository\Communicating for Results in Organizations - Exercise 2.pdf
+wwwroot\repository\Communicating for Results in Organizations - Exercise 3.pdf
+wwwroot\repository\Communicating for Results in Organizations - Exercise 4.pdf
+wwwroot\repository\Communicating for Results in Organizations - Exercise 5.pdf
+wwwroot\repository\Conflict Management and Resolution - Exercise 1.pdf
+wwwroot\repository\Conflict Management and Resolution - Exercise 2.pdf
+wwwroot\repository\Conflict Management and Resolution - Exercise 3.pdf
+wwwroot\repository\Conflict Management and Resolution - Exercise 4.pdf
+wwwroot\repository\Conflict Management and Resolution - Exercise 5.pdf
+wwwroot\repository\Developer_Story_Paul_Elling.pdf
+wwwroot\repository\ERP Systems Issues at Smith Cabinetry.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 1.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.1.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.10.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.2.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.3.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.4.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.5.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.6.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.7.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.8.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 2.9.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 3.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 4.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 5.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 6.pdf
+wwwroot\repository\Ethics for Decision Making - Exercise 7.pdf
+wwwroot\repository\Expansionism.pdf
+wwwroot\repository\F Scott Fitzgerald.pdf
+wwwroot\repository\Fitzgerald Father.pdf
+wwwroot\repository\George III.pdf
+wwwroot\repository\Goal of Space Exploration.pdf
+wwwroot\repository\Grinch.pdf
+wwwroot\repository\HamburgerIcon.jpg
+wwwroot\repository\HamburgerIconAlt.jpg
+wwwroot\repository\Hero Great Gatsby.pdf
+wwwroot\repository\Hoover and FDR.pdf
+wwwroot\repository\Human Resource Management - Article 1.pdf
+wwwroot\repository\Human Resource Management - Article 2.pdf
+wwwroot\repository\Human System Integration.pdf
+wwwroot\repository\IT in the Retail Industry.pdf
+wwwroot\repository\Its Time to Pay.pdf
+wwwroot\repository\Joads.pdf
+wwwroot\repository\Leadership Part 1.pdf
+wwwroot\repository\Leadership Part 2.pdf
+wwwroot\repository\Leadership Part 3.pdf
+wwwroot\repository\Leadership Part 4.pdf
+wwwroot\repository\Leadership Theories and Practice - Exercise 1 Part B.pdf
+wwwroot\repository\Leadership Theories and Practice - Exercise 2 Part B.pdf
+wwwroot\repository\Leadership Theories and Practice - Exercise 2.pdf
+wwwroot\repository\Leadership Theories and Practice - Exercise 3.pdf
+wwwroot\repository\MachinePrograms.png
+wwwroot\repository\MinusIcon.jpg
+wwwroot\repository\Negotiation Skills for Managers - Article Five.pdf
+wwwroot\repository\Negotiation Skills for Managers - Article Four.pdf
+wwwroot\repository\Negotiation Skills for Managers - Article One.pdf
+wwwroot\repository\Negotiation Skills for Managers - Article Three.pdf
+wwwroot\repository\Negotiation Skills for Managers - Article Two.pdf
+wwwroot\repository\Negotiation Skills for Managers - Question One.pdf
+wwwroot\repository\Negotiation Skills for Managers - Question Three.pdf
+wwwroot\repository\Negotiation Skills for Managers - Question Two.pdf
+wwwroot\repository\New Deal.pdf
+wwwroot\repository\Odyssey Gawaine.pdf
+wwwroot\repository\Oedipus Quest for Knowledge.pdf
+wwwroot\repository\Othello.pdf
+wwwroot\repository\Paraphrase Great Gatsby.pdf
+wwwroot\repository\PlusIcon.jpg
+wwwroot\repository\Policy Failure in Vietnam.pdf
+wwwroot\repository\Preliminary Report on Exxon Mobil.pdf
+wwwroot\repository\Progressives.pdf
+wwwroot\repository\Prufrock.pdf
+wwwroot\repository\Reconstruction.pdf
+wwwroot\repository\Roman Architecture.pdf
+wwwroot\repository\Romeo and Benvolio.pdf
+wwwroot\repository\Salem Witches.pdf
+wwwroot\repository\Sashas Letter.pdf
+wwwroot\repository\Scarlet Letter.pdf
+wwwroot\repository\Sister Carrie.pdf
+wwwroot\repository\SpiderBot.jpeg
+wwwroot\repository\Stock Evaluation Process.pdf
+wwwroot\repository\Strategic Management - Exercise 1.pdf
+wwwroot\repository\Strategic Management - Exercise 2.pdf
+wwwroot\repository\Strategic Management - Exercise 3.pdf
+wwwroot\repository\Term Project on Exxon Mobil.pdf
+wwwroot\repository\The Odyssey.pdf
+wwwroot\repository\The Potential Crisis of 401k Plans.pdf
+wwwroot\repository\Theodore Dreiser.pdf
+wwwroot\repository\This Marriage Sucks.pdf
+wwwroot\repository\To Fear Or Not to Fear.pdf
+wwwroot\repository\Tragedy Shakespearean World.pdf
+wwwroot\repository\War on Germany.pdf

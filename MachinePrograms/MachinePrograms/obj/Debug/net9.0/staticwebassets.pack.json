@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MachinePrograms.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MachinePrograms.8krb2pwhoo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\1920s.pdf",
+      "PackagePath": "staticwebassets\\repository\\1920s.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\A Bug Yesterday.pdf",
+      "PackagePath": "staticwebassets\\repository\\A Bug Yesterday.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\A Tale of Two Cities.pdf",
+      "PackagePath": "staticwebassets\\repository\\A Tale of Two Cities.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Agrarian Discontent.pdf",
+      "PackagePath": "staticwebassets\\repository\\Agrarian Discontent.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Andrew Carnegie.pdf",
+      "PackagePath": "staticwebassets\\repository\\Andrew Carnegie.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Andrew Jackson.pdf",
+      "PackagePath": "staticwebassets\\repository\\Andrew Jackson.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Appropriateness of Strategy.pdf",
+      "PackagePath": "staticwebassets\\repository\\Appropriateness of Strategy.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\BB8.jpeg",
+      "PackagePath": "staticwebassets\\repository\\BB8.jpeg"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Beast.jpeg",
+      "PackagePath": "staticwebassets\\repository\\Beast.jpeg"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Billy Budd.pdf",
+      "PackagePath": "staticwebassets\\repository\\Billy Budd.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Civil Rights.pdf",
+      "PackagePath": "staticwebassets\\repository\\Civil Rights.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Civil War.pdf",
+      "PackagePath": "staticwebassets\\repository\\Civil War.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Communicating for Results in Organizations - Exercise 1.pdf",
+      "PackagePath": "staticwebassets\\repository\\Communicating for Results in Organizations - Exercise 1.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Communicating for Results in Organizations - Exercise 2.pdf",
+      "PackagePath": "staticwebassets\\repository\\Communicating for Results in Organizations - Exercise 2.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Communicating for Results in Organizations - Exercise 3.pdf",
+      "PackagePath": "staticwebassets\\repository\\Communicating for Results in Organizations - Exercise 3.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Communicating for Results in Organizations - Exercise 4.pdf",
+      "PackagePath": "staticwebassets\\repository\\Communicating for Results in Organizations - Exercise 4.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Communicating for Results in Organizations - Exercise 5.pdf",
+      "PackagePath": "staticwebassets\\repository\\Communicating for Results in Organizations - Exercise 5.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Conflict Management and Resolution - Exercise 1.pdf",
+      "PackagePath": "staticwebassets\\repository\\Conflict Management and Resolution - Exercise 1.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Conflict Management and Resolution - Exercise 2.pdf",
+      "PackagePath": "staticwebassets\\repository\\Conflict Management and Resolution - Exercise 2.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Conflict Management and Resolution - Exercise 3.pdf",
+      "PackagePath": "staticwebassets\\repository\\Conflict Management and Resolution - Exercise 3.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Conflict Management and Resolution - Exercise 4.pdf",
+      "PackagePath": "staticwebassets\\repository\\Conflict Management and Resolution - Exercise 4.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Conflict Management and Resolution - Exercise 5.pdf",
+      "PackagePath": "staticwebassets\\repository\\Conflict Management and Resolution - Exercise 5.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Developer_Story_Paul_Elling.pdf",
+      "PackagePath": "staticwebassets\\repository\\Developer_Story_Paul_Elling.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\ERP Systems Issues at Smith Cabinetry.pdf",
+      "PackagePath": "staticwebassets\\repository\\ERP Systems Issues at Smith Cabinetry.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 1.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 1.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.1.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.1.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.10.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.10.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.2.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.2.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.3.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.3.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.4.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.4.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.5.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.5.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.6.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.6.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.7.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.7.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.8.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.8.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 2.9.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 2.9.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 3.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 3.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 4.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 4.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 5.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 5.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 6.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 6.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Ethics for Decision Making - Exercise 7.pdf",
+      "PackagePath": "staticwebassets\\repository\\Ethics for Decision Making - Exercise 7.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Expansionism.pdf",
+      "PackagePath": "staticwebassets\\repository\\Expansionism.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\F Scott Fitzgerald.pdf",
+      "PackagePath": "staticwebassets\\repository\\F Scott Fitzgerald.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Fitzgerald Father.pdf",
+      "PackagePath": "staticwebassets\\repository\\Fitzgerald Father.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\George III.pdf",
+      "PackagePath": "staticwebassets\\repository\\George III.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Goal of Space Exploration.pdf",
+      "PackagePath": "staticwebassets\\repository\\Goal of Space Exploration.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Grinch.pdf",
+      "PackagePath": "staticwebassets\\repository\\Grinch.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\HamburgerIcon.jpg",
+      "PackagePath": "staticwebassets\\repository\\HamburgerIcon.jpg"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\HamburgerIconAlt.jpg",
+      "PackagePath": "staticwebassets\\repository\\HamburgerIconAlt.jpg"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Hero Great Gatsby.pdf",
+      "PackagePath": "staticwebassets\\repository\\Hero Great Gatsby.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Hoover and FDR.pdf",
+      "PackagePath": "staticwebassets\\repository\\Hoover and FDR.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Human Resource Management - Article 1.pdf",
+      "PackagePath": "staticwebassets\\repository\\Human Resource Management - Article 1.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Human Resource Management - Article 2.pdf",
+      "PackagePath": "staticwebassets\\repository\\Human Resource Management - Article 2.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Human System Integration.pdf",
+      "PackagePath": "staticwebassets\\repository\\Human System Integration.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\IT in the Retail Industry.pdf",
+      "PackagePath": "staticwebassets\\repository\\IT in the Retail Industry.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Its Time to Pay.pdf",
+      "PackagePath": "staticwebassets\\repository\\Its Time to Pay.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Joads.pdf",
+      "PackagePath": "staticwebassets\\repository\\Joads.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Leadership Part 1.pdf",
+      "PackagePath": "staticwebassets\\repository\\Leadership Part 1.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Leadership Part 2.pdf",
+      "PackagePath": "staticwebassets\\repository\\Leadership Part 2.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Leadership Part 3.pdf",
+      "PackagePath": "staticwebassets\\repository\\Leadership Part 3.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Leadership Part 4.pdf",
+      "PackagePath": "staticwebassets\\repository\\Leadership Part 4.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Leadership Theories and Practice - Exercise 1 Part B.pdf",
+      "PackagePath": "staticwebassets\\repository\\Leadership Theories and Practice - Exercise 1 Part B.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Leadership Theories and Practice - Exercise 2 Part B.pdf",
+      "PackagePath": "staticwebassets\\repository\\Leadership Theories and Practice - Exercise 2 Part B.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Leadership Theories and Practice - Exercise 2.pdf",
+      "PackagePath": "staticwebassets\\repository\\Leadership Theories and Practice - Exercise 2.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Leadership Theories and Practice - Exercise 3.pdf",
+      "PackagePath": "staticwebassets\\repository\\Leadership Theories and Practice - Exercise 3.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\MachinePrograms.png",
+      "PackagePath": "staticwebassets\\repository\\MachinePrograms.png"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\MinusIcon.jpg",
+      "PackagePath": "staticwebassets\\repository\\MinusIcon.jpg"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Negotiation Skills for Managers - Article Five.pdf",
+      "PackagePath": "staticwebassets\\repository\\Negotiation Skills for Managers - Article Five.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Negotiation Skills for Managers - Article Four.pdf",
+      "PackagePath": "staticwebassets\\repository\\Negotiation Skills for Managers - Article Four.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Negotiation Skills for Managers - Article One.pdf",
+      "PackagePath": "staticwebassets\\repository\\Negotiation Skills for Managers - Article One.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Negotiation Skills for Managers - Article Three.pdf",
+      "PackagePath": "staticwebassets\\repository\\Negotiation Skills for Managers - Article Three.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Negotiation Skills for Managers - Article Two.pdf",
+      "PackagePath": "staticwebassets\\repository\\Negotiation Skills for Managers - Article Two.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Negotiation Skills for Managers - Question One.pdf",
+      "PackagePath": "staticwebassets\\repository\\Negotiation Skills for Managers - Question One.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Negotiation Skills for Managers - Question Three.pdf",
+      "PackagePath": "staticwebassets\\repository\\Negotiation Skills for Managers - Question Three.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Negotiation Skills for Managers - Question Two.pdf",
+      "PackagePath": "staticwebassets\\repository\\Negotiation Skills for Managers - Question Two.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\New Deal.pdf",
+      "PackagePath": "staticwebassets\\repository\\New Deal.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Odyssey Gawaine.pdf",
+      "PackagePath": "staticwebassets\\repository\\Odyssey Gawaine.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Oedipus Quest for Knowledge.pdf",
+      "PackagePath": "staticwebassets\\repository\\Oedipus Quest for Knowledge.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Othello.pdf",
+      "PackagePath": "staticwebassets\\repository\\Othello.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Paraphrase Great Gatsby.pdf",
+      "PackagePath": "staticwebassets\\repository\\Paraphrase Great Gatsby.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\PlusIcon.jpg",
+      "PackagePath": "staticwebassets\\repository\\PlusIcon.jpg"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Policy Failure in Vietnam.pdf",
+      "PackagePath": "staticwebassets\\repository\\Policy Failure in Vietnam.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Preliminary Report on Exxon Mobil.pdf",
+      "PackagePath": "staticwebassets\\repository\\Preliminary Report on Exxon Mobil.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Progressives.pdf",
+      "PackagePath": "staticwebassets\\repository\\Progressives.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Prufrock.pdf",
+      "PackagePath": "staticwebassets\\repository\\Prufrock.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Reconstruction.pdf",
+      "PackagePath": "staticwebassets\\repository\\Reconstruction.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Roman Architecture.pdf",
+      "PackagePath": "staticwebassets\\repository\\Roman Architecture.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Romeo and Benvolio.pdf",
+      "PackagePath": "staticwebassets\\repository\\Romeo and Benvolio.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Salem Witches.pdf",
+      "PackagePath": "staticwebassets\\repository\\Salem Witches.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Sashas Letter.pdf",
+      "PackagePath": "staticwebassets\\repository\\Sashas Letter.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Scarlet Letter.pdf",
+      "PackagePath": "staticwebassets\\repository\\Scarlet Letter.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Sister Carrie.pdf",
+      "PackagePath": "staticwebassets\\repository\\Sister Carrie.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\SpiderBot.jpeg",
+      "PackagePath": "staticwebassets\\repository\\SpiderBot.jpeg"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Stock Evaluation Process.pdf",
+      "PackagePath": "staticwebassets\\repository\\Stock Evaluation Process.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Strategic Management - Exercise 1.pdf",
+      "PackagePath": "staticwebassets\\repository\\Strategic Management - Exercise 1.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Strategic Management - Exercise 2.pdf",
+      "PackagePath": "staticwebassets\\repository\\Strategic Management - Exercise 2.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Strategic Management - Exercise 3.pdf",
+      "PackagePath": "staticwebassets\\repository\\Strategic Management - Exercise 3.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Term Project on Exxon Mobil.pdf",
+      "PackagePath": "staticwebassets\\repository\\Term Project on Exxon Mobil.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\The Odyssey.pdf",
+      "PackagePath": "staticwebassets\\repository\\The Odyssey.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\The Potential Crisis of 401k Plans.pdf",
+      "PackagePath": "staticwebassets\\repository\\The Potential Crisis of 401k Plans.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Theodore Dreiser.pdf",
+      "PackagePath": "staticwebassets\\repository\\Theodore Dreiser.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\This Marriage Sucks.pdf",
+      "PackagePath": "staticwebassets\\repository\\This Marriage Sucks.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\To Fear Or Not to Fear.pdf",
+      "PackagePath": "staticwebassets\\repository\\To Fear Or Not to Fear.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\Tragedy Shakespearean World.pdf",
+      "PackagePath": "staticwebassets\\repository\\Tragedy Shakespearean World.pdf"
+    },
+    {
+      "Id": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\repository\\War on Germany.pdf",
+      "PackagePath": "staticwebassets\\repository\\War on Germany.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MachinePrograms.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MachinePrograms.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MachinePrograms.props",
+      "PackagePath": "build\\MachinePrograms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MachinePrograms.props",
+      "PackagePath": "buildMultiTargeting\\MachinePrograms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MachinePrograms.props",
+      "PackagePath": "buildTransitive\\MachinePrograms.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

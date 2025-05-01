@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <title>MachinePrograms - @ViewData["Title"]</title>
+</head>
+<body>
+    <div class="header">
+        <a asp-area="" asp-controller="Home" asp-action="Index">
+            <img src="~/repository/MachinePrograms.png" height="100" width="100" />
+        </a>
+        <div id="menu" class="menuShow">
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-area="" asp-controller="STEM" asp-action="Technology">STEM</a>
+            <a asp-area="" asp-controller="Software" asp-action="Code">Software</a>
+            <a asp-area="" asp-controller="Leadership" asp-action="Guidelines">Leadership</a>
+            <a asp-area="" asp-controller="Writing" asp-action="Essays">Writing</a>
+            <a asp-area="" asp-controller="About" asp-action="Profile">About</a>
+        </div>
+        <div class="mobileMenu">
+            <img id="hamburgerIcon" src="~/repository/HamburgerIcon.jpg" class="hamburgerIconShow" height="50" width="50" onclick="hamburgerIconClick()" />
+            <img id="hamburgerIconAlt" src="~/repository/HamburgerIconAlt.jpg" class="hamburgerIconHide" height="50" width="50" onclick="hamburgerIconClick()" />
+            <div id="mobileMenuLinks" class="mobileMenuLinks">
+                <a asp-area="" asp-controller="Home" asp-action="Index" onclick="mobileMenuLinkClick()">Home</a>
+                <br />
+                <a asp-area="" asp-controller="STEM" asp-action="Technology" onclick="mobileMenuLinkClick()">STEM</a>
+                <br />
+                <a asp-area="" asp-controller="Software" asp-action="Code" onclick="mobileMenuLinkClick()">Software</a>
+                <br />
+                <a asp-area="" asp-controller="Leadership" asp-action="Guidelines" onclick="mobileMenuLinkClick()">Leadership</a>
+                <br />
+                <a asp-area="" asp-controller="Writing" asp-action="Essays" onclick="mobileMenuLinkClick()">Writing</a>
+                <br />
+                <a asp-area="" asp-controller="About" asp-action="Profile" onclick="mobileMenuLinkClick()">About</a>
+            </div>
+        </div>
+    </div>              
+    <div class="body">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script>
+        function hamburgerIconClick() {
+            var hamburgerIcon = document.getElementById("hamburgerIcon");
+			var hamburgerIconAlt = document.getElementById("hamburgerIconAlt");
+            var mobileMenuLinks = document.getElementById("mobileMenuLinks");
+
+            if (hamburgerIcon.className == "hamburgerIconHide") {
+				hamburgerIcon.className = "hamburgerIconShow"; 
+                hamburgerIconAlt.className = "hamburgerIconHide";
+                mobileMenuLinks.className = "mobileMenuLinksHide";
+            }
+            else {
+                hamburgerIcon.className = "hamburgerIconHide";
+                hamburgerIconAlt.className = "hamburgerIconShow";
+                mobileMenuLinks.className = "mobileMenuLinksShow";
+            }
+        }
+
+        function mobileMenuLinkClick() {
+            var hamburgerIcon = document.getElementById("hamburgerIcon");
+            var mobileMenuLinks = document.getElementById("mobileMenuLinks");
+            hamburgerIcon.className = "hamburgerIconHide";
+            mobileMenuLinks.className = "mobileMenuLinksHide";
+        }
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
