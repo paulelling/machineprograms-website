@@ -23,12 +23,6 @@ D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\co
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets.build.json
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets.development.json
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets.build.endpoints.json
-D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets\msbuild.MachinePrograms.Microsoft.AspNetCore.StaticWebAssets.props
-D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets\msbuild.MachinePrograms.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets\msbuild.build.MachinePrograms.props
-D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.MachinePrograms.props
-D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.MachinePrograms.props
-D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets.pack.json
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\MachinePrograms.dll
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\refint\MachinePrograms.dll
@@ -36,3 +30,4 @@ D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\Ma
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\MachinePrograms.genruntimeconfig.cache
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\ref\MachinePrograms.dll
 D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\compressed\eec4rxgw4z-yl4ie6fvvi.gz
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\obj\Release\net9.0\staticwebassets.build.json.cache

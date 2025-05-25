@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="~/repository/MachinePrograms.png" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <title>MachinePrograms - @ViewData["Title"]</title>
@@ -16,8 +17,6 @@
             <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
             <a asp-area="" asp-controller="STEM" asp-action="Technology">STEM</a>
             <a asp-area="" asp-controller="Software" asp-action="Code">Software</a>
-            <a asp-area="" asp-controller="Leadership" asp-action="Guidelines">Leadership</a>
-            <a asp-area="" asp-controller="Writing" asp-action="Essays">Writing</a>
             <a asp-area="" asp-controller="About" asp-action="Profile">About</a>
         </div>
         <div class="mobileMenu">
@@ -29,10 +28,6 @@
                 <a asp-area="" asp-controller="STEM" asp-action="Technology" onclick="mobileMenuLinkClick()">STEM</a>
                 <br />
                 <a asp-area="" asp-controller="Software" asp-action="Code" onclick="mobileMenuLinkClick()">Software</a>
-                <br />
-                <a asp-area="" asp-controller="Leadership" asp-action="Guidelines" onclick="mobileMenuLinkClick()">Leadership</a>
-                <br />
-                <a asp-area="" asp-controller="Writing" asp-action="Essays" onclick="mobileMenuLinkClick()">Writing</a>
                 <br />
                 <a asp-area="" asp-controller="About" asp-action="Profile" onclick="mobileMenuLinkClick()">About</a>
             </div>

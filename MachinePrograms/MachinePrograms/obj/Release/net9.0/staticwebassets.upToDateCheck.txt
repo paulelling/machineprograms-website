@@ -1,5 +1,3 @@
-D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\wwwroot\css\site.css
-D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\wwwroot\js\site.js
 wwwroot\css\site.css
 wwwroot\js\site.js
 wwwroot\repository\1920s.pdf
@@ -10,6 +8,7 @@ wwwroot\repository\Andrew Carnegie.pdf
 wwwroot\repository\Andrew Jackson.pdf
 wwwroot\repository\Appropriateness of Strategy.pdf
 wwwroot\repository\BB8.jpeg
+wwwroot\repository\BB8Video.MOV
 wwwroot\repository\Beast.jpeg
 wwwroot\repository\Billy Budd.pdf
 wwwroot\repository\Civil Rights.pdf
@@ -106,3 +105,5 @@ wwwroot\repository\This Marriage Sucks.pdf
 wwwroot\repository\To Fear Or Not to Fear.pdf
 wwwroot\repository\Tragedy Shakespearean World.pdf
 wwwroot\repository\War on Germany.pdf
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\wwwroot\css\site.css
+D:\MachinePrograms\Website\MachinePrograms\MachinePrograms\wwwroot\js\site.js
