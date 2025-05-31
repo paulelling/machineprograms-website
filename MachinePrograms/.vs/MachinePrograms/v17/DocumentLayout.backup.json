@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\MachinePrograms\\Website\\MachinePrograms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADB758BA-5238-4FC1-B584-92B518A565D6}|MachinePrograms\\MachinePrograms.csproj|d:\\machineprograms\\website\\machineprograms\\machineprograms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADB758BA-5238-4FC1-B584-92B518A565D6}|MachinePrograms\\MachinePrograms.csproj|solutionrelative:machineprograms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADB758BA-5238-4FC1-B584-92B518A565D6}|MachinePrograms\\MachinePrograms.csproj|d:\\machineprograms\\website\\machineprograms\\machineprograms\\views\\drawing\\sketches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADB758BA-5238-4FC1-B584-92B518A565D6}|MachinePrograms\\MachinePrograms.csproj|solutionrelative:machineprograms\\views\\drawing\\sketches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB758BA-5238-4FC1-B584-92B518A565D6}|MachinePrograms\\MachinePrograms.csproj|d:\\machineprograms\\website\\machineprograms\\machineprograms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADB758BA-5238-4FC1-B584-92B518A565D6}|MachinePrograms\\MachinePrograms.csproj|solutionrelative:machineprograms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB758BA-5238-4FC1-B584-92B518A565D6}|MachinePrograms\\MachinePrograms.csproj|d:\\machineprograms\\website\\machineprograms\\machineprograms\\views\\stem\\technology.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADB758BA-5238-4FC1-B584-92B518A565D6}|MachinePrograms\\MachinePrograms.csproj|solutionrelative:machineprograms\\views\\stem\\technology.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MachinePrograms\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MachinePrograms\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABQAAAAAAAAAA==",
+              "Title": "Sketches.cshtml",
+              "DocumentMoniker": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\Views\\Drawing\\Sketches.cshtml",
+              "RelativeDocumentMoniker": "MachinePrograms\\Views\\Drawing\\Sketches.cshtml",
+              "ToolTip": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\Views\\Drawing\\Sketches.cshtml",
+              "RelativeToolTip": "MachinePrograms\\Views\\Drawing\\Sketches.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T14:42:18.113Z",
+              "WhenOpened": "2025-05-28T15:25:04.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Technology.cshtml",
+              "DocumentMoniker": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\Views\\STEM\\Technology.cshtml",
+              "RelativeDocumentMoniker": "MachinePrograms\\Views\\STEM\\Technology.cshtml",
+              "ToolTip": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\Views\\STEM\\Technology.cshtml",
+              "RelativeToolTip": "MachinePrograms\\Views\\STEM\\Technology.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T15:21:30.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MachinePrograms\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\MachinePrograms\\Website\\MachinePrograms\\MachinePrograms\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MachinePrograms\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4v08AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T15:21:14.201Z",
               "EditorCaption": ""
             }
           ]
