@@ -15,12 +15,29 @@
         </a>
         <div id="menu" class="menuShow">
             <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-            <a asp-area="" asp-controller="STEM" asp-action="Technology">STEM</a>
-            <a asp-area="" asp-controller="Software" asp-action="Code">Software</a>
+            <div class="menuItem">
+                <a asp-area="" asp-controller="STEM" asp-action="Technology">STEM</a>
+                <div class="submenu">
+                    <a asp-area="" asp-controller="STEM" asp-action="Resources">Resources</a>
+                </div>
+            </div>
+            <div class="menuItem">
+                <a asp-area="" asp-controller="Software" asp-action="Code">Software</a>
+                <div class="submenu">
+                    <a asp-area="" asp-controller="Software" asp-action="Resources">Resources</a>
+                </div>
+            </div>
             <a asp-area="" asp-controller="Leadership" asp-action="Guidelines">Leadership</a>
-            <a asp-area="" asp-controller="Writing" asp-action="Essays">Writing</a>
-            <a asp-area="" asp-controller="Drawing" asp-action="Sketches">Drawing</a>
-            <a asp-area="" asp-controller="About" asp-action="Profile">About</a>
+            <div class="menuItem">
+                <a asp-area="" asp-controller="About" asp-action="Profile">About</a>
+                <div class="submenu">
+                    <a href="https://www.linkedin.com/in/paul-elling-85024424a/">Resume</a>
+                    <a href="~/repository/Developer_Story_Paul_Elling.pdf">Story</a>
+                    <a href="https://substack.com/@@paulelling">Substack</a>
+                    <a asp-area="" asp-controller="Writing" asp-action="Essays">Writing</a>
+                    <a asp-area="" asp-controller="Drawing" asp-action="Sketches">Drawing</a>
+                </div>
+            </div>            
         </div>
         <div class="mobileMenu">
             <img id="hamburgerIcon" src="~/repository/HamburgerIcon.jpg" class="hamburgerIconShow" height="50" width="50" onclick="hamburgerIconClick()" />
@@ -33,10 +50,6 @@
                 <a asp-area="" asp-controller="Software" asp-action="Code" onclick="mobileMenuLinkClick()">Software</a>
                 <br />
                 <a asp-area="" asp-controller="Leadership" asp-action="Guidelines" onclick="mobileMenuLinkClick()">Leadership</a>
-                <br />
-                <a asp-area="" asp-controller="Writing" asp-action="Essays" onclick="mobileMenuLinkClick()">Writing</a>
-                <br />
-                <a asp-area="" asp-controller="Drawing" asp-action="Sketches" onclick="mobileMenuLinkClick()">Drawing</a>
                 <br />
                 <a asp-area="" asp-controller="About" asp-action="Profile" onclick="mobileMenuLinkClick()">About</a>
             </div>

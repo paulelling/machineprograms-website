@@ -19,28 +19,34 @@ body {
     display: flex;
 }
 
+#menu {
+
+}
+
 #menu a {
+    background-color: #000080;
     font-weight: normal;
+    padding: 5px;
 }
 
 #menu a:link {
     text-decoration: none;
-    color: #000000;    
+    color: #ffffff;    
 }
 
 #menu a:visited {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 #menu a:hover {
     text-decoration: underline;
-    color: #000000;
+    color: #ffffff;
 }
 
 #menu a:active {
     text-decoration: underline;
-    color: #000000;
+    color: #ffffff;
 }
 
 .menuShow {
@@ -53,7 +59,24 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    align-items: center;
+    align-items: center;   
+}
+
+.menuItem {
+    position: relative;
+    display: inline-block;
+}
+
+.menuItem:hover .submenu {
+    display: block;
+}
+
+.submenu {
+    display: none;
+    position: absolute;
+    background-color: #000080;
+    z-index: 1;
+    padding: 5px;
 }
 
 .mobileMenu {
